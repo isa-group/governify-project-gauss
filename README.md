@@ -13,5 +13,5 @@
   * **GITHUB**: https://github.com/isa-group/governify-registry
   * **DOCKERHUB**: https://hub.docker.com/r/isagroup/governify-registry/
 ## 5. PPINOT COMPUTER
-  * **GITHUB**: https://github.com/isa-group/ppinot
+  * **GITHUB**: https://github.com/isa-group/governify-computer-ppinot/tree/v6
   * **DOCKERHUB**: https://hub.docker.com/r/isagroup/governify-computer-ppinot/
