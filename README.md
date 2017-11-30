@@ -1,4 +1,4 @@
-#### <i class="icon-file"></i> Document referenced on file:  GAUSS-A01-M01: Manual de Administración y Uso
+>Document referenced on file:  GAUSS-A01-M01: Manual de Administración y Uso
 
 # Repositories of projects used in GAUSS-Project
 
